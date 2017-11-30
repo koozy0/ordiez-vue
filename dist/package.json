@@ -1,0 +1,9 @@
+{
+  "name": "ordiez",
+  "version": "1.0.0",
+  "description": "frontend for ordiez",
+  "author": "koozy <koozhengyu@gmail.com>",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm install express"
+  }
